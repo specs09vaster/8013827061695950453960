@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "atik-hestiana",
+  "private_key_id": "26fb5833ce3a5103c7549447a29bec805745d743",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6msLbJNTtcuAW\nKy1P2PSbtiYI/ySASw+MlDxEcls5AYnYqG9dsklzDiQ/4SYl9TucmP2uvJPtbIrt\n3WsfTS8tWWc+rrj0PhmPtrjpDOuRN2UTX3hyiP8DU3T4H9YnIXxCb3esj8t8BD5d\nzwVZvxaaGkIhqR+N3stxIdPcQ0ThV5C+KbYa7rVOIRQFh5IfC1Cjlwen58FBYEo9\nT286Kc9PGS8Ac8GX8RV1EQSoXaZhHWcyyWRFSXbgvR06rE0AINBXP2DiGFha/IJi\nhe2eWFf7EYemAm7ydEegOV6k0obmPllusNAdyNanlf2pW2uCHUm7JT9O+o5mZk/l\nWR5j0uu1AgMBAAECggEAANCXLuTIxzv8Atdvwbb/+Rlrrhi1x0JMpZT/dF8Oyz9t\n+NO3dMXIBf1sUW5sFQ4D6MmkO0SYiBi0Ee4oacETsSjVnL5KPCAfSsjbTYKLGXMP\n+Rcuy/U8Ln6z9oy7tH0JcV1853R983iDRd6XC+Qb4agMB4tDrNdptQCW+mcSyxcY\nYQhK2BCizaFXONrX1ceyiBSXqwhUuaIe/X89y+hjIHZ1WBQTKhJdi/ReWSKsdf92\nnqhhN6XAYbXzqzwF2b3EP8ujkqv5FlTcm7k8leAPkD5VXGJ/L0WzrB99mK61wxcx\nkMr+PJtniK698dHmVOflMFtudo69v7KmzSQtEL0s2wKBgQDsj3Yt2gpgXeT7eSjK\nuO5dv7mGiTZZOFmgUm0gc7OPAsHxdepDm+QY4FlBDrep+AsobnmYKyV43Bf/ITeJ\njFYC/IEkqe2XZbTJmzvWWyTvEvci5HGRlxSI5emVNChoQfzpez68YoZkhpt5z13J\nVabqEnN+VBBhhug3kK1LkHN2LwKBgQDJ8F/Zo5y74CcOYkQ4AZes3TGrzIqPR6Ko\neFG4DbcT2jSGRIittrGiF0D1/dJ61yw7YN1A0ieLZWixF37Td7aIkKrSO0HH/dMI\nUfCBUdSjhyINoyDUnh88RndmSOEvqwEvjY9GCWjJbAagkmoKauFXO5i3mMZqgTP+\nkrdEqbVnWwKBgCqEYmY9US4e0iAMl7NP56+73Nl8YeNJSHqTNf/mK7ihc0A1xEQg\nia+a6w/RWFtZNJAwwvQBlTuSu1Fko/m52l+xCHkRfZ1/by3pE6kkOpAppXeE/ZCA\nSfWM9R2XAUgzzAQe3Zi4UJVSyDDtf1rHZTee11k2PLd6qtQJ0cvKC6aLAoGAQGPO\nHFaIJnvt2C9LM1SGqY8KRI5+6/raib97xyVQaBsevmVh84oaj+W8R/O8RoEP0Ist\nYXrhMxiNzlIAlatJX7hJT6mnav6raK6/8mxGUjJHkHOgh0s4CH8rmUjJzOpJAYGw\n2pMrf3Zbkp29BD9aRPdy1a/4LIOwMY9UsqcueZsCgYEAuJMffFy+Z4hv5SxP49km\nMSHa3wDaFPsPPhhEu6BZ2Hs40YdifNtklWzaKOM0Q/0jvI+dMRJgxS7jMX5xRT8b\nz121U4q7eQFyKrxejEmQMxYLMXqfdQ+z7WjppVt0096qg9ZfSBCV6W2hBT02LFhF\nHEQVXJ4E5dMCWa0SUlq3F4Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-r2zlc@atik-hestiana.iam.gserviceaccount.com",
+  "client_id": "103062740862373363067",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-r2zlc%40atik-hestiana.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
